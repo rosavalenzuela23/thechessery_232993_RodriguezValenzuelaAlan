@@ -13,6 +13,18 @@
         android:theme="@style/Theme.Thechessery"
         tools:targetApi="31">
         <activity
+            android:name=".Sweets_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Salties_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".HotDrinks_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ProductosActivity"
+            android:exported="false" />
+        <activity
             android:name=".MenuActivity"
             android:exported="false" />
         <activity
